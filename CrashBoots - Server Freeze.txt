@@ -1,0 +1,1 @@
+{Count:1b,tag:{ench:[{id:25s,lvl:32767s},{id:28s,lvl:1s},{id:27s,lvl:1s}],RepairCost:7,Unbreakable:1b,Damage:0,"minecraft:keep_on_death":1b,display:{Name:"§r§fServer Crash Boots - Do Not Wear It.\n[ §6by noblestremark11 §f]"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:golden_boots"}

@@ -1,0 +1,1 @@
+{Count:1b,tag:{ench:[{id:28s,lvl:1s}],display:{Name:"§r§fCrashes Potion\nby §f[ §6noblestremark11 §f ]\n§7*Crash players in their\nrender distance."}},Damage:52s,WasPickedUp:0b,Name:"minecraft:splash_potion"}
